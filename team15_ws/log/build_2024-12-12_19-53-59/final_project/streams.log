@@ -1,0 +1,24 @@
+[0.896s] Invoking command in '/home/robot/workspace2/team15_ws/src/final_project': PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed
+[1.142s] running egg_info
+[1.142s] writing ../../build/final_project/final_project.egg-info/PKG-INFO
+[1.142s] writing dependency_links to ../../build/final_project/final_project.egg-info/dependency_links.txt
+[1.143s] writing entry points to ../../build/final_project/final_project.egg-info/entry_points.txt
+[1.143s] writing requirements to ../../build/final_project/final_project.egg-info/requires.txt
+[1.143s] writing top-level names to ../../build/final_project/final_project.egg-info/top_level.txt
+[1.167s] reading manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.168s] writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.168s] running build
+[1.168s] running build_py
+[1.168s] copying final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.169s] running install
+[1.169s] running install_lib
+[1.170s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.170s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/canvas_localization_new.py to canvas_localization_new.cpython-36.pyc
+[1.171s] running install_data
+[1.172s] running install_egg_info
+[1.173s] removing '/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info' (and everything under it)
+[1.173s] Copying ../../build/final_project/final_project.egg-info to /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info
+[1.174s] running install_scripts
+[1.188s] Installing final_project_main script to /home/robot/workspace2/team15_ws/install/final_project/lib/final_project
+[1.188s] writing list of installed files to '/home/robot/workspace2/team15_ws/build/final_project/install.log'
+[1.203s] Invoked command in '/home/robot/workspace2/team15_ws/src/final_project' returned '0': PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed

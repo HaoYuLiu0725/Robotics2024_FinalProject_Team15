@@ -1,0 +1,24 @@
+[0.928s] Invoking command in '/home/robot/workspace2/team15_ws/src/final_project': PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed
+[1.174s] running egg_info
+[1.174s] writing ../../build/final_project/final_project.egg-info/PKG-INFO
+[1.174s] writing dependency_links to ../../build/final_project/final_project.egg-info/dependency_links.txt
+[1.175s] writing entry points to ../../build/final_project/final_project.egg-info/entry_points.txt
+[1.175s] writing requirements to ../../build/final_project/final_project.egg-info/requires.txt
+[1.175s] writing top-level names to ../../build/final_project/final_project.egg-info/top_level.txt
+[1.198s] reading manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.199s] writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.200s] running build
+[1.200s] running build_py
+[1.200s] copying final_project/homography.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.200s] running install
+[1.201s] running install_lib
+[1.201s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/homography.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.202s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/homography.py to homography.cpython-36.pyc
+[1.202s] running install_data
+[1.203s] running install_egg_info
+[1.204s] removing '/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info' (and everything under it)
+[1.204s] Copying ../../build/final_project/final_project.egg-info to /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info
+[1.205s] running install_scripts
+[1.219s] Installing final_project_main script to /home/robot/workspace2/team15_ws/install/final_project/lib/final_project
+[1.219s] writing list of installed files to '/home/robot/workspace2/team15_ws/build/final_project/install.log'
+[1.235s] Invoked command in '/home/robot/workspace2/team15_ws/src/final_project' returned '0': PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed
