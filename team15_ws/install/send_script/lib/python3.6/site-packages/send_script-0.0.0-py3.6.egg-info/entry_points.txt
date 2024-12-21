@@ -1,0 +1,7 @@
+[console_scripts]
+eye_in_hand_calibration = send_script.eye_in_hand_calibration:main
+eye_to_hand_calibration = send_script.eye_to_hand_calibration:main
+hw4 = send_script.hw4:main
+img_sub = send_script.image_sub:main
+send_script = send_script.send_script:main
+
