@@ -1,0 +1,51 @@
+running egg_info
+writing ../../build/final_project/final_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/final_project/final_project.egg-info/dependency_links.txt
+writing entry points to ../../build/final_project/final_project.egg-info/entry_points.txt
+writing requirements to ../../build/final_project/final_project.egg-info/requires.txt
+writing top-level names to ../../build/final_project/final_project.egg-info/top_level.txt
+reading manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+running build
+running build_py
+copying final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/__init__.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/tm_robot_arm.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/speech_to_text.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/text_to_image.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/final_project_main.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/homography.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/camera.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/edgegroup_pure.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+copying final_project/find_mic.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+running install
+running install_lib
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/__init__.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/tm_robot_arm.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/speech_to_text.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/text_to_image.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/final_project_main.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/homography.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/camera.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/edgegroup_pure.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/find_mic.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/canvas_localization_new.py to canvas_localization_new.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/__init__.py to __init__.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/tm_robot_arm.py to tm_robot_arm.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/speech_to_text.py to speech_to_text.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/text_to_image.py to text_to_image.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/final_project_main.py to final_project_main.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/homography.py to homography.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/camera.py to camera.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/edgegroup_pure.py to edgegroup_pure.cpython-36.pyc
+byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/find_mic.py to find_mic.cpython-36.pyc
+running install_data
+copying resource/final_project -> /home/robot/workspace2/team15_ws/install/final_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/robot/workspace2/team15_ws/install/final_project/share/final_project
+running install_egg_info
+removing '/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info' (and everything under it)
+Copying ../../build/final_project/final_project.egg-info to /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info
+running install_scripts
+Installing final_project_main script to /home/robot/workspace2/team15_ws/install/final_project/lib/final_project
+writing list of installed files to '/home/robot/workspace2/team15_ws/build/final_project/install.log'
