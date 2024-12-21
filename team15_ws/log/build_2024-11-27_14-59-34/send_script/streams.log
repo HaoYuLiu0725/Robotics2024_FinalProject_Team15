@@ -1,0 +1,27 @@
+[0.628s] Invoking command in '/home/robot/workspace2/team15_ws/src/send_script': PYTHONPATH=/home/robot/workspace2/team15_ws/build/send_script/prefix_override:/home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/send_script build --build-base /home/robot/workspace2/team15_ws/build/send_script/build install --record /home/robot/workspace2/team15_ws/build/send_script/install.log --install-scripts $base/lib/send_script --single-version-externally-managed
+[0.875s] running egg_info
+[0.875s] writing ../../build/send_script/send_script.egg-info/PKG-INFO
+[0.876s] writing dependency_links to ../../build/send_script/send_script.egg-info/dependency_links.txt
+[0.876s] writing entry points to ../../build/send_script/send_script.egg-info/entry_points.txt
+[0.876s] writing requirements to ../../build/send_script/send_script.egg-info/requires.txt
+[0.876s] writing top-level names to ../../build/send_script/send_script.egg-info/top_level.txt
+[0.900s] reading manifest file '../../build/send_script/send_script.egg-info/SOURCES.txt'
+[0.901s] writing manifest file '../../build/send_script/send_script.egg-info/SOURCES.txt'
+[0.901s] running build
+[0.902s] running build_py
+[0.902s] copying send_script/run_calibration.py -> /home/robot/workspace2/team15_ws/build/send_script/build/lib/send_script
+[0.902s] running install
+[0.902s] running install_lib
+[0.903s] copying /home/robot/workspace2/team15_ws/build/send_script/build/lib/send_script/run_calibration.py -> /home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages/send_script
+[0.904s] byte-compiling /home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages/send_script/run_calibration.py to run_calibration.cpython-36.pyc
+[0.904s] running install_data
+[0.905s] running install_egg_info
+[0.906s] removing '/home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages/send_script-0.0.0-py3.6.egg-info' (and everything under it)
+[0.907s] Copying ../../build/send_script/send_script.egg-info to /home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages/send_script-0.0.0-py3.6.egg-info
+[0.907s] running install_scripts
+[0.921s] Installing hw4 script to /home/robot/workspace2/team15_ws/install/send_script/lib/send_script
+[0.921s] Installing img_sub script to /home/robot/workspace2/team15_ws/install/send_script/lib/send_script
+[0.921s] Installing run_calibration script to /home/robot/workspace2/team15_ws/install/send_script/lib/send_script
+[0.921s] Installing send_script script to /home/robot/workspace2/team15_ws/install/send_script/lib/send_script
+[0.922s] writing list of installed files to '/home/robot/workspace2/team15_ws/build/send_script/install.log'
+[0.936s] Invoked command in '/home/robot/workspace2/team15_ws/src/send_script' returned '0': PYTHONPATH=/home/robot/workspace2/team15_ws/build/send_script/prefix_override:/home/robot/workspace2/team15_ws/install/send_script/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/send_script build --build-base /home/robot/workspace2/team15_ws/build/send_script/build install --record /home/robot/workspace2/team15_ws/build/send_script/install.log --install-scripts $base/lib/send_script --single-version-externally-managed
