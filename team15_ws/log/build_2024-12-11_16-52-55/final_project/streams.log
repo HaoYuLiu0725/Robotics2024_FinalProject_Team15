@@ -1,0 +1,58 @@
+[0.939s] Invoking command in '/home/robot/workspace2/team15_ws/src/final_project': CONDA_PROMPT_MODIFIER=(team15) PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed
+[1.190s] running egg_info
+[1.190s] creating ../../build/final_project/final_project.egg-info
+[1.190s] writing ../../build/final_project/final_project.egg-info/PKG-INFO
+[1.191s] writing dependency_links to ../../build/final_project/final_project.egg-info/dependency_links.txt
+[1.191s] writing entry points to ../../build/final_project/final_project.egg-info/entry_points.txt
+[1.191s] writing requirements to ../../build/final_project/final_project.egg-info/requires.txt
+[1.191s] writing top-level names to ../../build/final_project/final_project.egg-info/top_level.txt
+[1.191s] writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.216s] reading manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.217s] writing manifest file '../../build/final_project/final_project.egg-info/SOURCES.txt'
+[1.217s] running build
+[1.217s] running build_py
+[1.217s] creating /home/robot/workspace2/team15_ws/build/final_project/build
+[1.217s] creating /home/robot/workspace2/team15_ws/build/final_project/build/lib
+[1.217s] creating /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.217s] copying final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/__init__.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/tm_robot_arm.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/speech_to_text.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/text_to_image.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/final_project_main.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/homography.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/camera.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.218s] copying final_project/edgegroup_pure.py -> /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project
+[1.219s] running install
+[1.219s] running install_lib
+[1.219s] creating /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/canvas_localization_new.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/__init__.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/tm_robot_arm.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/speech_to_text.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/text_to_image.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/final_project_main.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/homography.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/camera.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] copying /home/robot/workspace2/team15_ws/build/final_project/build/lib/final_project/edgegroup_pure.py -> /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project
+[1.220s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/canvas_localization_new.py to canvas_localization_new.cpython-36.pyc
+[1.221s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/__init__.py to __init__.cpython-36.pyc
+[1.221s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/tm_robot_arm.py to tm_robot_arm.cpython-36.pyc
+[1.222s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/speech_to_text.py to speech_to_text.cpython-36.pyc
+[1.222s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/text_to_image.py to text_to_image.cpython-36.pyc
+[1.223s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/final_project_main.py to final_project_main.cpython-36.pyc
+[1.224s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/homography.py to homography.cpython-36.pyc
+[1.224s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/camera.py to camera.cpython-36.pyc
+[1.228s] byte-compiling /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project/edgegroup_pure.py to edgegroup_pure.cpython-36.pyc
+[1.229s] running install_data
+[1.229s] creating /home/robot/workspace2/team15_ws/install/final_project/share/ament_index
+[1.230s] creating /home/robot/workspace2/team15_ws/install/final_project/share/ament_index/resource_index
+[1.230s] creating /home/robot/workspace2/team15_ws/install/final_project/share/ament_index/resource_index/packages
+[1.230s] copying resource/final_project -> /home/robot/workspace2/team15_ws/install/final_project/share/ament_index/resource_index/packages
+[1.230s] copying package.xml -> /home/robot/workspace2/team15_ws/install/final_project/share/final_project
+[1.230s] running install_egg_info
+[1.231s] Copying ../../build/final_project/final_project.egg-info to /home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages/final_project-0.0.0-py3.6.egg-info
+[1.232s] running install_scripts
+[1.246s] Installing final_project_main script to /home/robot/workspace2/team15_ws/install/final_project/lib/final_project
+[1.246s] writing list of installed files to '/home/robot/workspace2/team15_ws/build/final_project/install.log'
+[1.263s] Invoked command in '/home/robot/workspace2/team15_ws/src/final_project' returned '0': CONDA_PROMPT_MODIFIER=(team15) PYTHONPATH=/home/robot/workspace2/team15_ws/build/final_project/prefix_override:/home/robot/workspace2/team15_ws/install/final_project/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/final_project build --build-base /home/robot/workspace2/team15_ws/build/final_project/build install --record /home/robot/workspace2/team15_ws/build/final_project/install.log --install-scripts $base/lib/final_project --single-version-externally-managed
